@@ -1,0 +1,13 @@
+{
+  "sets": {
+    "desktop": {
+      "width": 1440,
+      "height": 724
+    },
+    "mobile": {
+      "width": 900,
+      "height": 453
+    }
+  },
+  "frames": 184
+}
